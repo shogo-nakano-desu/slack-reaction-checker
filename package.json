@@ -1,0 +1,14 @@
+{
+  "name": "slack-stamp-checker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "shogo-nakano-desu <61229807+shogo-nakano-desu@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node src/index"
+  },
+  "devDependencies": {
+    "ts-node": "^10.5.0",
+    "typescript": "^4.5.5"
+  }
+}
